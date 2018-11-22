@@ -1,0 +1,15 @@
+# MacOS Bullshit
+.DS_Store
+
+# Modules
+node_modules/
+
+# Next Specific
+.next/
+out/
+
+# Logs
+*.log
+
+# Secrets
+.env
